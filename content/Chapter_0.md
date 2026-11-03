@@ -63,7 +63,7 @@ E_n = \frac{-13.6eV}{n^2}
 ```
 
 
-```{figure} https://commons.wikimedia.org/wiki/File:Bohr_atom_model.svg
+```{figure} https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Bohr_atom_model.svg/1280px-Bohr_atom_model.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 :label: fig_foton
 :width: 50%
 :align: left
