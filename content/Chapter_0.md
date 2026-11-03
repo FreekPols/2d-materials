@@ -63,14 +63,13 @@ E_n = \frac{-13.6eV}{n^2}
 ```
 
 
-
-```{figure}  https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Bohr_atom_model.svg/1280px-Bohr_atom_model.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+```{figure} https://commons.wikimedia.org/wiki/File:Bohr_atom_model.svg
 :label: fig_foton
 :width: 50%
 :align: left
 
 Een foton ontstaat door het terugvallen van een elektron. \
-Door JabberWok, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2639910
+Door [JabberWok, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=2639910)
 ```
 
 ```{exercise}
