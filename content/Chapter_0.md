@@ -62,17 +62,9 @@ E_n = \frac{-13.6eV}{n^2}
 - $n$: Het nummer van de baan (begint bij 1)
 ```
 
-```{figure} https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Bohr_atom_model.svg/1280px-Bohr_atom_model.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 
-From right click copy image link
-```
 
-```{figure} https://commons.wikimedia.org/wiki/Special:Redirect/file/Bohr_atom_model.svg
-
-met andere link
-```
-
-```{figure} https://upload.wikimedia.org/wikipedia/commons/9/93/Bohr_atom_model.svg
+```{figure}  https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Bohr_atom_model.svg/1280px-Bohr_atom_model.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 :label: fig_foton
 :width: 50%
 :align: left
