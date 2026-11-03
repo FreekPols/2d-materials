@@ -5,13 +5,11 @@ project:
     - file: content/Chapter_0.md
     - file: content/Chapter_1.md
     - file: content/Chapter_2.md
+    - file: content/Chapter_3.md
+    - file: content/Chapter_4.md
 
     - title: Appendix
       children:
-        - file: content/Template/Quickstart.md
-          children:
-            - file: content/Template/firststeps.md
-        - file: content/Template/Introduction.md
         - file: content/Template/Theory.md
         - file: content/Template/Methods.md
         - file: content/Template/Cheatsheet.md

@@ -15,17 +15,20 @@ no-update-date: true
 
 +++ { "kind": "split-image" }
 
-## The TUD starterkit for open publishing with JupyterBook
-
-a quick setup for your open publishing project.
+## 2D Materialen
 
 
-Originally created by  
-*Freek Pols*
+
+De module is gerealiseerd door
+*Sjors van der Schot*
+
+Onder begeleiding van:
+- *Rutger Ockhorst*
+- *Prof.dr. S.C. Conesa Boj*
 
 ![](figures/cover.png)
 
 +++
 
-This thesis reports on the use of Jupyter Book for open publishing at TU Delft - especially bachelor and master thesis. It provides a quick setup for your open publishing project, including a template and guidelines for using Jupyter Book effectively. The starterkit is designed to help you create and share your research in an open and accessible way.
-
+Deze module is ontwikkeld als onderdeel van het vak SL4400 Bètatechnische Onderwijsinnovatie
+Ten behoeve van de master Science Education and Communication aan de TU Delft

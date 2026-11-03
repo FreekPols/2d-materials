@@ -5,3 +5,10 @@ kernelspec:
 ---
 (Chapter_2)=
 # Band gap & Toepassingen
+## Concept van een band gap 
+
+## Koppeling elektronspin en uitsluitingsprincipe pauli 
+
+## Verklaren stofeigenschappen(half)geleider / isolator adhv band gap 
+
+## Koppeling werking transistor 
