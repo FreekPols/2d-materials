@@ -1,5 +1,5 @@
 ---
-title: The TUD starterkit for open publishing with JupyterBook
+title: 2D Materials - BTOI
 site:
   hide_outline: true
   hide_toc: true
@@ -19,7 +19,6 @@ no-update-date: true
 
 a quick setup for your open publishing project.
 
-{button}`Use this template <https://github.com/new?template_name=starterkit&template_owner=TUD-JB-OS>`  
 
 Originally created by  
 *Freek Pols*

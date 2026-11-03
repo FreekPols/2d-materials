@@ -1,12 +1,12 @@
 # $env:BASE_URL = "/starterkit"
 version: 1
 project:
-  title: TU Delft's JB Starterkit
+  title: 2D materials
   # description:
-  keywords: [Jupyter Book, Open Science, TU Delft, Starterkit]
+  keywords: [Graphene, 2D materials]
 
-  github: https://github.com/TUD-JB-OS/starterkit # change this to your own repository
-  date: 2026-10-09
+  github: https://github.com/svanderschot/2d-materials
+  date: 2026-11-03
   thumbnail: style/thumbnail.jpg
   numbering: 
     title: true
@@ -62,6 +62,6 @@ site:
   # custom parts
   parts:
     footer:       style/footer.md
-    banner:       Our website at [https://jboss.tudelft.nl](https://jboss.tudelft.nl) is temporarily unavailable.
+    #banner:       Our website at [https://jboss.tudelft.nl](https://jboss.tudelft.nl) is temporarily unavailable.
     navbar_end:   style/navbar_end.md
 # 
